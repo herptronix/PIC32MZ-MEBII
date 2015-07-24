@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration version="1.0.4.22">
+  <General>
+    <HarmonyPath path="../../../../v1_04_02"/>
+    <ForceOptimization flag="true"/>
+  </General>
+</configuration>

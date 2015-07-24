@@ -1,0 +1,26 @@
+build/pic32mzsk_meb2_wqvga/production/_ext/362436977/uc.o:  \
+ ../src/drv/uc/uc.c  \
+../src/drv/uc/uc.h  \
+../src/main.h  \
+ ../../../../../framework/peripheral/int/plib_int.h  \
+ ../../../../../framework/peripheral/int/processor/int_processor.h  \
+ ../../../../../framework/peripheral/int/processor/int_p32xxxx.h  \
+ ../../../../../framework/peripheral/int/plib_int_private_pic32.h  \
+ ../../../../../framework/peripheral/int/processor/int_p32mz2048ech144.h  \
+ ../../../../../framework/peripheral/peripheral_common_32bit.h  \
+ ../../../../../framework/peripheral/peripheral_common.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_SingleVectorShadowSet_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_VectorSelect_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_ProximityTimerEnable_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_ProximityTimerControl_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_ExternalINTEdgeSelect_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_INTCPUPriority_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_INTCPUVector_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_SourceFlag_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_SourceControl_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_VectorPriority_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_CPUCurrentPriorityLevel_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_EnableControl_PIC32.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_ShadowRegisterAssign_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_VariableOffset_Default.h  \
+ ../../../../../framework/peripheral/int/processor/../templates/int_SoftwareNMI_Unsupported.h 
